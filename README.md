@@ -12,7 +12,7 @@ This tool combines Shodan search functionality with subdomain enumeration and ta
 ### Supports:
 - Single target domain input.
 - Mass target input from a file.
-- Automated subdomain enumeration and validation from a target domain.
+- Mass target by enumerate subdomain from inputed target
 
 ## Installation
 Ensure you have the necessary dependencies installed:
