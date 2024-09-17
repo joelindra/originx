@@ -7,7 +7,9 @@ This tool combines Shodan search functionality with subdomain enumeration and vu
 - Shodan Search Integration: Leverages Shodan API to search for a domain and extract associated IP addresses.
 - Subdomain Enumeration: Automates subdomain discovery using subfinder, with results saved for further processing.
 - URL Validation: Uses httprobe to check which IP addresses or domains are live, and automatically fetches the page titles for each validated URL.
-- Flexible Target Input: Supports:
+
+## Flexible Target Input: 
+### Supports:
 - Single target domain input.
 - Mass target input from a file.
 - Automated subdomain enumeration and validation from a target domain.
