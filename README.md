@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38650097-0344-409e-bd49-a0d129a25081)
+![image](https://github.com/user-attachments/assets/4ff5e0dc-fcc8-41c7-b132-240337020273)
 
 ## Shodan Origin IP Recon
 This tool combines Shodan search functionality with subdomain enumeration and vulnerability validation using httprobe. The primary goal is to automate the process of gathering IP addresses and checking live URLs for domains, enabling security researchers and penetration testers to streamline their reconnaissance efforts.
